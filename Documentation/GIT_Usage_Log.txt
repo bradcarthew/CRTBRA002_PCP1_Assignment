@@ -1,0 +1,35 @@
+commit cfeabada7ffadbe7f1f8638685c2f4c1fc93fa69
+Author: bradleycarthew <b.carthew@optimumprogram.com>
+Date:   Sat Aug 12 19:40:48 2023 +0200
+
+    Added more results from testing.
+
+commit d00ac08afe44ebdd268b49624c585a634812de58
+Author: bradleycarthew <b.carthew@optimumprogram.com>
+Date:   Fri Aug 11 21:31:07 2023 +0200
+
+    Added scripts and results.
+
+commit 40827372c821beb4bd70643eb8ab52693e32266d
+Author: bradleycarthew <b.carthew@optimumprogram.com>
+Date:   Wed Aug 9 21:52:02 2023 +0200
+
+    Update TerrainArea object, added scripts to automate testing and fixed return of left.
+
+commit 8f4dca6b2bb16e34b428658e16f6e9ede1e9f47c
+Author: bradleycarthew <b.carthew@optimumprogram.com>
+Date:   Tue Aug 8 18:17:53 2023 +0200
+
+    Added parallel classes and functions.
+
+commit 8a608a340b63fe1b69893fe1d09c6484741f756c
+Author: bradleycarthew <b.carthew@optimumprogram.com>
+Date:   Sat Aug 5 13:24:46 2023 +0200
+
+    Added Search, TerrainArea and MonteCarloMinimization classes.
+
+commit 583348fb0fa08376e3e0f9b6bba9ee1d898db9d2
+Author: bradleycarthew <b.carthew@optimumprogram.com>
+Date:   Sat Aug 5 13:24:31 2023 +0200
+
+    Added modules to project, and included MonteCarloMini project with Search, TerrainArea and MonteCarloMinimization classes.
